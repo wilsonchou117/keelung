@@ -143,20 +143,20 @@ faq = {
         text="https://docs.google.com/spreadsheets/d/1qbuEm3QcCdNaFr6Jss2I0SjPWxW-jPrb30Pd-xaMH-I/edit#gid=924794706"
     ),
     '匯款資訊': ImageSendMessage(
-        original_content_url='https://i.postimg.cc/d0y9rwNq/S-20922436.jpg',
-        preview_image_url='https://i.postimg.cc/d0y9rwNq/S-20922436.jpg'
+        original_content_url='https://i.postimg.cc/wxwprZW2/k4.jpg',
+        preview_image_url='https://i.postimg.cc/wxwprZW2/k4.jpg'
     ),
     '國小課程查詢': ImageSendMessage(
         original_content_url='https://i.postimg.cc/GtP9p09h/S-6152309-0.jpg',
         preview_image_url='https://i.postimg.cc/GtP9p09h/S-6152309-0.jpg'
     ),
     '國中課程查詢': ImageSendMessage(
-        original_content_url='https://i.postimg.cc/SxfLv5r4/S-6152311-0.jpg',
-        preview_image_url='https://i.postimg.cc/SxfLv5r4/S-6152311-0.jpg'
+        original_content_url='https://i.postimg.cc/RF0PJscC/k6.jpg',
+        preview_image_url='https://i.postimg.cc/RF0PJscC/k6.jpg'
     ),
     '課程報價': ImageSendMessage(
-        original_content_url='https://i.postimg.cc/Z5P0mvCt/S-20881558.jpg',
-        preview_image_url='https://i.postimg.cc/Z5P0mvCt/S-20881558.jpg'
+        original_content_url='https://i.postimg.cc/QCtRsN6b/k5.jpg',
+        preview_image_url='https://i.postimg.cc/QCtRsN6b/k5.jpg'
     ),
     '預約視聽': TextSendMessage(
         text="https://calendar.google.com/calendar/u/0?cid=Z2lubmllODMwMTI3QGdtYWlsLmNvbQ"
