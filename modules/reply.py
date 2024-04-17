@@ -147,8 +147,8 @@ faq = {
         preview_image_url='https://i.postimg.cc/wxwprZW2/k4.jpg'
     ),
     '國小課程查詢': ImageSendMessage(
-        original_content_url='https://i.postimg.cc/GtP9p09h/S-6152309-0.jpg',
-        preview_image_url='https://i.postimg.cc/GtP9p09h/S-6152309-0.jpg'
+        original_content_url='https://i.postimg.cc/c1nzRzp6/k7.jpg',
+        preview_image_url='https://i.postimg.cc/c1nzRzp6/k7.jpg'
     ),
     '國中課程查詢': ImageSendMessage(
         original_content_url='https://i.postimg.cc/RF0PJscC/k6.jpg',
